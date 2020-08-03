@@ -102,11 +102,11 @@ python app/run.py
 
 **Screenshot 7**
 
-![overview1](img/overview1.jpg)
+![overview1](img/overview1.JPG)
 
 **Screenshot 8**
 
-![overview2](img/overview2.jpg)
+![overview2](img/overview2.JPG)
 
 This will direct you to a URL where you can enter messages if it doesn't type this in your broswer **http://127.0.0.1:5000/**.
 
