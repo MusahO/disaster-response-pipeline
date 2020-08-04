@@ -26,7 +26,7 @@ I will be creating a machine learning pipeline to categorize these events so tha
 The project will include a web app where an emergency worker can input a new message and get classification results in several categories. The web app will also display visualizations of the data. This project will show off my software skills, including the ability to create basic data pipelines and write clean, organized code!
 
 **Web App**
-![web app](https://media.giphy.com/media/MCErtlTnuS6djqv1b4/giphy.gif)
+<img src="https://media.giphy.com/media/MCErtlTnuS6djqv1b4/giphy.gif" width="1280" height="640" />
 
 <a id='components'></a>
 ## 2. Project Components
