@@ -96,15 +96,15 @@ Running THis command **in project directory** starts the Web APP:
 ```bat
 python app/run.py
 ```
-**Screenshot 6**
+**Screenshot 5**
 
 ![app](img/app.JPG)
 
-**Screenshot 7**
+**Screenshot 6**
 
 ![overview1](img/overview1.JPG)
 
-**Screenshot 8**
+**Screenshot 7**
 
 ![overview2](img/overview2.JPG)
 
@@ -118,14 +118,14 @@ The dataset is highly imbalanced
 
 <a id='requirements'></a>
 
-## 6. Requirements
+## 5. Requirements
 
 - Python 3.6 or above 
 - necessary libraries in **requirements.txt**
 
 <a id='credits'></a>
 
-## 7. Credits and Acknowledgements
+## 6. Credits and Acknowledgements
 
 Thanks <a href="https://www.udacity.com" target="_blank">Udacity</a>
 
